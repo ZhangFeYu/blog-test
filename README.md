@@ -16,8 +16,8 @@
 * 我没有前女友
 * 我也很想有
 * 可是现实残酷
-
-接下来是一段代码，刚学我也不会写，照着写一断
+我目前学过的编程只有`HTML CSS JavaScript`
+接下来是一段代码，刚学我也不会写，照着写一段吧
 ```javascript
 var b = 2
 console.log('Hello world')
